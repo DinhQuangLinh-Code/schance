@@ -1,0 +1,288 @@
+{
+    "percent": "%",
+    "home": "Trang chủ",
+    "logOut": "Đăng xuất",
+    "loadMore":"Xem thêm",
+    "about": {
+        "headTitle": "Dự án"
+    },
+    "menu": {
+        "home":"Trang chủ",
+        "product":"Sản phẩm",
+        "introduce": "Giới thiệu"
+    },
+    "donate": {
+        "titleDonate": "Make a Donation",
+        "unit": "Đ",
+        "selectAmount": "Select Amount:",
+        "button": "Donate Now",
+        "project":"Dự án: ",
+        "name":"Tên người quyên góp: ",
+        "money":"Số tiền: ",
+        "infoDonate":"Thông tin quyên góp"
+    },
+    "company": {
+        "title": "Các doanh nghiệp tài trợ",
+        "companyText": "S-Chance rất hân hạnh nhận được sự hỗ trợ, đồng hành và tham gia nhiệt tình của các doanh nghiệp sau.",
+        "button": "tham gia",
+        "sponsor_form": {
+            "name_placeholder": "Tên doanh nghiệp",
+            "email_placeholder": "Email",
+            "business_placeholder": "Lĩnh vực kinh doanh",
+            "agent_placeholder": "Người đại diện doanh nghiệp với S-Chance",
+            "content_placeholder": "Nội dung đăng ký"
+        }
+    },
+    "footer": {
+        "copyRight": "© Bản quyền thuộc về ",
+        "copyRightCompany": "S-CHANCE"
+    },
+    "product": {
+        "title": "Quầy hàng ủng hộ quỹ S-Chance",
+        "price": "Giá niêm yết",
+        "pricePromotion":"Giá thành viên",
+        "button": "CHỌN MUA",
+        "unit": "đ",
+        "text1": "Mua một món hàng, bạn đã chung tay giúp đỡ một số phận khó khăn. Chọn một sản phẩm, ",
+        "text2": "bạn đã động viên rất lớn cho doanh nghiệp Việt non trẻ. Hãy cùng nhau xây dựng đất nước tốt đẹp hơn.",
+        "select_placeholder": "Chọn Doanh Nghiệp",
+        "select_all": "Chọn tất cả doanh nghiệp",
+        "donate_rate": "Tỉ lệ ủng hộ",
+        "dondate_rate_tooltip": "Khi bạn mua sản phẩm này, bạn đã ủng hộ '%' vào quỹ S-Chance",
+        "contact": "Liên hệ",
+        "listProduct":"Xem tất cả sản phẩm",
+        "lenghtProduct":"sản phẩm được tìm thấy",
+        "have":"Có"
+    },
+    "banner": {
+        "text1": "Trẻ em vùng cao",
+        "text2": "Nụ cười hồn nhiên giữa muôn bề thiếu thốn",
+        "text3": "Những mảnh đời khó khăn",
+        "text4": "Cần lắm những ngôi trường ấm áp",
+        "text5": "Bệnh nhân xương thủy tinh",
+        "text6": "Cuộc sống bình thường là niềm mơ ước",
+        "text7": "1809+",
+        "text8": "Lượt đóng góp",
+        "text9": "20+",
+        "text10": "Dự án",
+        "text11": "19+",
+        "text12": "Doanh nghiệp"
+    },
+    "form": {
+        "button": "Đăng ký",
+        "title": "Đăng ký doanh nghiệp tài trợ cho S-Chance",
+        "companyName": "Tên doanh nghiệp",
+        "text4": "Cần lắm những ngôi trường ấm áp",
+        "text5": "Bệnh nhân xương thủy tinh",
+        "text6": "Cuộc sống bình thường là niềm mơ ước",
+        "text7": "1809+",
+        "text8": "Lượt đóng góp",
+        "text9": "20+",
+        "text10": "Dự án",
+        "text11": "19+",
+        "text12": "Doanh nghiệp",
+        "titleDonate": "Đăng ký quyên góp vào S-Chance"
+    },
+    "cart": {
+        "provided": "Cung cấp bởi",
+        "buyLater": "Để dành mua sau",
+        "contact": "Liên hệ",
+        "provisional": "Tạm tính",
+        "intoMoney": "Thành tiền",
+        "vat": "Đã bao gồm VAT nếu có",
+        "supported": "Đã ủng hộ S-Chance",
+        "cart": "Giỏ hàng",
+        "yes": "có",
+        "product": "Sản phẩm",
+        "continueShopping": "Tiếp tục mua hàng",
+        "noProduct": " Không có sản phẩm nào trong giỏ hàng của bạn.",
+        "order": "Tiến hành đặt hàng",
+        "delete": "xóa"
+    },
+    "payment": {
+        "update": "Cập Nhật",
+        "textStep1": "Đăng nhập để tiếp tục mua hàng",
+        "textStep2": "Địa chỉ giao hàng",
+        "textStep3": "Chọn hình thức thanh toán",
+        "payMent": "Thanh toán tiền mặt khi nhận hàng",
+        "payMentATM": "Chuyển khoản ngân hàng",
+        "address": "Địa chỉ giao hàng",
+        "product": "sản phẩm",
+        "order": "Đơn hàng",
+        "provided": "Cung cấp bởi ",
+        "": "Chọn địa chỉ giao hàng có trước",
+        "customer": "Địa chỉ giao hàng",
+        "vn": "Việt Nam",
+        "phone": "Điện thoại",
+        "buttonStep2": "Giao đến địa chỉ này",
+        "buttonEdit": "Sửa",
+        "cancel": "Hủy",
+        "buttonOrder": "Đặt mua",
+        "messegeOrder": "Đặt hàng thành công",
+        "payment_form": {
+            "validate": {
+                "name": "Hãy nhập họ tên",
+                "maxName": "Họ tên tối đa 100 kí tự",
+                "phone": "Hãy nhập số điện thoại",
+                "maxPhone": "Số điện thoại không hợp lệ",
+                "address": "Hãy nhập địa chỉ",
+                "maxAddress": "Địa chỉ tối đa 100 kí tự"
+            },
+            "placeholder": {
+                "name": "Nhập họ tên",
+                "phone": "Nhập số điện thoại",
+                "address": "Nhập Địa chỉ"
+            },
+            "label": {
+                "name": "Họ và tên",
+                "phone": "Số điện thoại",
+                "address": "Địa chỉ"
+            }
+        },
+        "step": {
+            "titleLogin": "Đăng nhập",
+            "titleAddress": "Địa Chỉ Giao Hàng",
+            "titleOrder": "Thanh Toán & Đặt Mua"
+        },
+        "confirmLogin": "Hãy đăng nhập tài khoản của bạn"
+    },
+    "validate": {
+        "isEmpty": "Hãy nhập trường này",
+        "isEmail": "Định dạng email chưa đúng",
+        "minLength": "Nội dung phải nhiều hơn 6 ký tự",
+        "success": "Đăng ký doanh nghiệp thành công",
+        "error": "Đăng ký doanh nghiệp không thành công",
+        "warn": "Bạn chưa đăng nhập tài khoản cá nhân",
+        "successDonate": "Quyên góp thành công",
+        "errorDonate": "Quyên góp không thành công",
+        "errorFullname":"Hãy nhập họ và tên",
+        "errorMoney":"Hãy nhập số tiền",
+        "errorValue":"Hãy chọn mệnh giá",
+        "errorCompanyName":"Hãy nhập tên doanh nghiệp",
+        "errorEmail":"Hãy nhập email",
+        "errorBusiness":"Hãy nhập lĩnh vực kinh doanh",
+        "errorRepresentative":"Hãy nhập người đại diện doanh nghiệp với S-chance",
+        "errorContent":"Hãy nhập nội dung"
+
+    },
+    "button": {
+        "donate": "QUYÊN GÓP",
+        "regist": "Đăng ký",
+        "minName": "Tên phải nhiều hơn 6 ký tự",
+        "maxName": "Nội dung phải ít hơn 50 ký tự",
+        "close": "Đóng"
+    },
+    "login": {
+        "messegeLogin": "Đăng nhập thành công",
+        "logout": "Đăng xuất",
+        "order":"Đơn hàng",
+        "donate":"Quyên góp"
+    },
+    "messege": {
+        "addProduct": "Thêm vào giỏ hàng thành công",
+        "seeCart": "Xem giỏ hàng và thanh toán"
+    },
+    "ATMinformation": {
+        "transferinfo":"Thông tin chuyển khoản",
+        "stk": "STK: ",
+        "accountNumber": "0041000298055",
+        "owner":"Chủ tài khoản: ",
+        "accountName": "Nguyễn Thị Mỹ",
+        "bank":"Ngân hàng: ",
+        "bankName": "Vietcombank Đà Nẵng",
+        "transfer_content": "Nội dung chuyển khoản: "
+    },
+    "order":{
+        "title":"Đơn hàng của bạn",
+        "totalMoney":"Tổng tiền:",
+        "payStatus1":"Chưa thanh toán",
+        "payStatus2":"Đã thanh toán",
+        "deliverStatus1":"Chưa giao hàng",
+        "deliverStatus2":"Đã giao hàng",
+        "deliverStatus3":"Đã hủy",
+        "date":"Ngày mua :",
+        "image":"Hình ảnh",
+        "productName":"Tên sản phẩm",
+        "price":"Giá",
+        "amount":"Số lượng",
+        "total":"Tổng tiền",
+        "payStatus":"Trạng thái thanh toán",
+        "deliveredStatus":"Trạng thái giao hàng",
+        "emptyOrder":"Bạn chưa có đơn hàng nào",
+        "continueShopping":"Tiếp tục mua hàng",
+        "error":"Lỗi server",
+        "cancelOrder":"Bạn có muốn hủy đơn hàng này không ?",
+        "changeDeliverStatusCancalSuccess":"Hủy đơn hàng thành công",
+        "shippingAddress":"Địa Chỉ Nhận Hàng"
+    },
+    "listdonate": {
+        "title":"Danh sách quyên góp",
+        "status1":"Chưa chuyển tiền",
+        "status2":"Đã chuyển tiền",
+        "donor":"Người quyên góp",
+        "price":"Số tiền",
+        "status":"Trạng thái",
+        "emptyDonate":"Hiện chưa có quyên góp nào . Hãy chung tay vì cộng đồng",
+        "continueDonate":"Bắt đầu quyên qóp",
+        "project":"Dự án"
+
+    },
+    "sponsor":{
+        "infoSponsor":"Thông tin doanh nghiệp thành viên",
+        "companyName":"Tên doanh nghiệp: ",
+        "name": "Tên người đại diện: ",
+        "business":"Lĩnh vực kinh doanh: ",
+        "email": "Email: ",
+        "content": "Nội dung: "
+    },
+    "introduce_page": {
+        "content": [
+            {
+                "text": "Dựa vào khảo sát 60 nền kinh tế của Mạng lưới khởi nghiệp Toàn Cầu, Việt Nam nằm trong Top đầu 20 quốc gia về tinh thần khởi nghiệp."
+            },
+            {
+                "text": "Tuy nhiên, cũng theo nghiên cứu này, khả năng hiện thực hóa ý tường của người Việt lại nằm trong 20 nền kinh tế đứng cuối."
+            },
+            {
+                "text": "Việc khởi nghiệp hay bắt đầu một hoạt động kinh doanh rất đơn giản, chỉ cần xuất phát từ một ý tưởng. Nhưng để đưa được ý tưởng ấy trở thành một mô hình kinh doanh cụ thể và vận hành hiệu quả là một chặng đường dài."
+            },
+            {
+                "text": "Tỷ lệ tồn tại sau 3 đến 5 năm của các doanh nghiệp khởi nghiệp chỉ là 5 đến 10%. Lý do xuất phát từ chính những vấn đề vướng mắc như: sản phẩm, tài chính, nhân sự, thương hiệu, văn hóa ....."
+            },
+            {
+                "text": "Xuất phát là người đã từng khởi nghiệp và cũng chuẩn bị khởi nghiệp, tôi hiểu những khó khăn, những cô đơn của người khởi nghiệp.... và đó là lý do tôi tham gia xây dựng Cộng đồng cùng những người khởi nghiệp."
+            },
+            {
+                "text": "Website thương mại S-CHANCE được ra đời với mục đích gắn kết các sản phẩm/ dịch vụ mà thành viên cộng đồng đang kinh doanh,"
+            },
+            {
+                "text": "Ở S-CHANCE bạn vừa là nhà cung cấp, bạn vừa là khách hàng và hơn nữa bạn vừa tham gia đóng góp QUỸ S-CHANCE cho những hoạt động xã hội khác."
+            },
+            {
+                "text": "Cùng nhau nhé các bạn!"
+            }
+        ]
+    },
+    "send_mail_order": {
+        "subject": "SCHANCE - new order",
+        "title": "Thông tin đơn hàng",
+        "orderNo": "Mã đơn hàng",
+        "name": "Người mua",
+        "tel": "Số điện thoại",
+        "address": "Địa chỉ",
+        "list_product": {
+            "stt": "STT",
+            "name": "Sản phẩm",
+            "price": "Giá tiền",
+            "quantity": "Số lượng",
+            "into_money": "Thành tiền",
+            "donate": "Ủng hộ",
+            "total": "Tổng tiền"
+        },
+        "payment": {
+            "title": "Thanh toán",
+            "pm_1": "Thanh toán khi nhận hàng",
+            "pm_2": "Chuyển khoản ngân hàng"
+        }
+    }
+}

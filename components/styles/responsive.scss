@@ -1,0 +1,813 @@
+@import './mixins';
+
+.about-page {
+    @include w640 {
+        padding: 50px 0px 70px 0px;
+        margin-bottom: 50px;
+    }
+    .funfact-list {
+        li {
+            @include w1366 {
+                margin-right: 50px;
+            }
+            @include w1366 {
+                font-size: 40px;
+            }
+        }
+    }
+}
+
+.text-custom01 {
+    p {
+        @include w1366 {
+            font-size: 15px;
+        }
+        @include w480 {
+            font-size: 14px;
+        }
+    }
+}
+
+.title-heading-title {
+    @include w1366 {
+        font-size: 28px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+}
+
+.title-page-custom1 {
+    @include w1366 {
+        font-size: 18px;
+    }
+}
+
+.column-padding-custom1 {
+    .button-custom3 {
+        @include w1366 {
+            font-size: 12px;
+        }
+    }
+}
+
+.volunteer-page {
+    .title-page {
+        h2 {
+            @include w1024 {
+                font-size: 30px;
+            }
+        }
+    }
+    .text-content {
+        p {
+            font-size: 14px;
+        }
+    }
+}
+
+.container {
+    @include w979 {
+        max-width: 900px;
+    }
+    @include w767 {
+        max-width: 700px;
+    }
+}
+
+.company-page {
+    .elementor-widget-container {
+        .title {
+            @include w979 {
+                font-size: 32px;
+            }
+        }
+    }
+}
+
+.elementor-row {
+    .title-page-custom3 {
+        h2 {
+            font-size: 35px;
+        }
+    }
+}
+
+.company-page {
+    .fundpress-partners {
+        li {
+            a {
+                @include w823 {
+                    width: 160px;
+                    height: 160px;
+                    line-height: 160px;
+                }
+                @include w568 {
+                    width: 130px;
+                    height: 130px;
+                    line-height: 130px;
+                }
+                img {
+                    @include w568 {
+                        width: 70%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.footer-section {
+    .copyright {
+        .copyright-text {
+            p {
+                @include w823 {
+                    font-size: 15px;
+                }
+            }
+        }
+    }
+}
+
+.footer-widget {
+    @include w979 {
+        margin-bottom: 60px;
+        height: 250px;
+    }
+    @include w767 {
+        height: auto;
+    }
+}
+
+.fundpress-partners {
+    margin-top: 40px;
+}
+
+.footer-section {
+    .footer-top-layer {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+}
+
+.footer-section {
+    .copyright {
+        @include w767 {
+            text-align: center;
+        }
+    }
+}
+
+.footer-section {
+    .copyright {
+        .footer-menu {
+            .menu {
+                @include w767 {
+                    display: block;
+                    text-align: center;
+                    margin-top: 10px;
+                }
+            }
+        }
+    }
+}
+
+.footer-section {
+    .recent-post-widget {
+        li {
+            .posts-thumb {
+                @include w767 {
+                    width: 12%;
+                }
+                @include w480 {
+                    width: 15%;
+                }
+                @include w375 {
+                    width: 20%;
+                }
+            }
+        }
+    }
+}
+
+.donate-page {
+    .donation-from {
+        .form-inline {
+            .input-group {
+                @include w568 {
+                    width: 50%;
+                }
+                @include w411 {
+                    width: 100%;
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+}
+
+.donate-page {
+    .select-amaunt-group {
+        @include w568 {
+            width: 100%;
+            margin-top: 30px;
+        }
+    }
+}
+
+.product-page {
+    @include w480 {
+        padding: 50px 0px 50px 0px;
+    }
+}
+.product3-page {
+    @include w480 {
+        padding: 50px 0px 50px 0px;
+    }
+}
+
+.about-page {
+    @include w480 {
+        padding: 50px 0px 50px 0px;
+    }
+}
+
+.donate-page {
+    .select-amaunt-group {
+        @include w375 {
+            padding: 17px 10px;
+        }
+    }
+}
+
+.xs-welcome-content {
+    .content-banner {
+        @include w667 {
+            left: 5%;
+        }
+        .text-banner {
+            @include w568 {
+                width: 90%;
+            }
+            h2 {
+                @include w667 {
+                    font-size: 50px;
+                }
+                @include w568 {
+                    font-size: 40px;
+                }
+                @include w480 {
+                    font-size: 23px;
+                }
+            }
+        }
+        button {
+            @include w414 {
+                padding: 15px 30px;
+                margin-right: 5px;
+            }
+            @include w375 {
+                font-size: 10px;
+            }
+        }
+    }
+}
+
+.banner-page {
+    .percentage-list {
+        h3 {
+            @include w823 {
+                font-size: 40px;
+            }
+            @include w480 {
+                font-size: 30px;
+            }
+        }
+    }
+}
+
+.xs-welcome-content {
+    .content-banner {
+        .text-banner {
+            @include w736 {
+                font-size: 36px;
+            }
+        }
+    }
+}
+
+.elementor-row {
+    .title-page-custom3 {
+        h2 {
+            @include w768 {
+                font-size: 30px;
+            }
+        }
+    }
+}
+
+.product-page {
+    @include w736 {
+        padding: 20px 0 20px 0;
+    }
+}
+
+.fundpress-partners {
+    @include w736 {
+        margin-top: 20px;
+    }
+}
+
+.box-product {
+    .box-product-item {
+        .item-header {
+            @include w568 {
+                height: auto;
+                img {
+                    height: auto;
+                }
+            }
+        }
+        .item-content {
+            .simple-tag {
+                @include w1024 {
+                    height: 36px;
+                }
+            }
+        }
+    }
+}
+
+.elementor-row {
+    @include w568 {
+        margin-bottom: 20px;
+    }
+}
+
+.box_logo {
+    img {
+        @include w414 {
+            width: 160px !important;
+        }
+    }
+}
+.form-control {
+    @include w375 {
+        font-size: 14px !important;
+    }
+}
+
+.column-padding-custom2 {
+    .intruduction-images {
+        .images-popup-wraper {
+            @include w767 {
+                margin-left: 0px;
+                margin-right: 0px;
+                margin-bottom: 0px;
+            }
+            img {
+                @include w767 {
+                    width: 100%;
+                    height: auto;
+                }
+            }
+        }
+    }
+}
+
+.container-the {
+    @include w1024 {
+        max-width: 100%;
+    }
+    @include w568 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.checkout-shop-children {
+    .cart-item-product {
+        @include w414 {
+            padding: 10px 5px;
+        }
+        .cart-item-box {
+            @include w375 {
+                margin-bottom: 35px;
+            }
+            .cart-item-left {
+                @include w414 {
+                    width: 63%;
+                }
+                .img-product {
+                    @include w1024 {
+                        width: 80px;
+                        height: 80px;
+                        margin-right: 20px;
+                    }
+                    @include w640 {
+                        width: 60px;
+                        height: 60px;
+                        margin-right: 10px;
+                    }
+                    @include w414 {
+                        width: 45px;
+                        height: 45px;
+                    }
+                    img {
+                        @include w1024 {
+                            width: 80px;
+                            height: 80px;
+                        }
+                        @include w640 {
+                            width: 60px;
+                            height: 60px;
+                        }
+                        @include w414 {
+                            width: 45px;
+                            height: 45px;
+                        }
+                    }
+                }
+                .content {
+                    .title {
+                        @include w1024 {
+                            font-size: 15px;
+                        }
+                        @include w640 {
+                            font-size: 14px;
+                        }
+                        @include w414 {
+                            margin-bottom: 0;
+                        }
+                        @include w375 {
+                            font-size: 12px;
+                        }
+                    }
+                    .product-company {
+                        .company {
+                            @include w640 {
+                                font-size: 13px;
+                            }
+                            @include w414 {
+                                margin-bottom: 0;
+                            }
+                            @include w375 {
+                                font-size: 9px;
+                            }
+                        }
+                        span {
+                            @include w1024 {
+                                font-size: 13px;
+                            }
+                            @include w640 {
+                                font-size: 12px;
+                            }
+                            @include w375 {
+                                font-size: 10px;
+                            }
+                        }
+                    }
+                    .action-cart {
+                        span {
+                            @include w1024 {
+                                font-size: 14px;
+                            }
+                            @include w375 {
+                                font-size: 12px;
+                            }
+                            &.button-delete {
+                                @include w1024 {
+                                    margin-right: 20px;
+                                }
+                                @include w375 {
+                                    margin-right: 7px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .cart-item-middle {
+                @include w1024 {
+                    width: 30%;
+                    padding-right: 20px;
+                    padding-left: 0;
+                }
+                @include w568 {
+                    padding-right: 10px;
+                }
+                @include w375 {
+                    width: 35%;
+                }
+                .box-discount {
+                    .origin-price {
+                        @include w640 {
+                            font-size: 14px;
+                        }
+                        @include w480 {
+                            font-size: 13px;
+                        }
+                        @include w414 {
+                            font-size: 11px;
+                        }
+                    }
+                    span {
+                        @include w414 {
+                            padding: 0 3px;
+                        }
+                    }
+                    .discount-rate {
+                        @include w640 {
+                            font-size: 12px;
+                        }
+                    }
+                }
+                .current-price {
+                    @include w640 {
+                        font-size: 18px;
+                    }
+                    @include w480 {
+                        font-size: 15px;
+                    }
+                    @include w414 {
+                        font-size: 13px;
+                        margin-bottom: 0;
+                    }
+                }
+            }
+            .cart-item-right {
+                @include w1024 {
+                    padding: 0;
+                }
+                @include w480 {
+                    display: grid;
+                    width: auto;
+                }
+                .input {
+                    @include w640 {
+                        line-height: 19px;
+                        width: 40px;
+                    }
+                    @include w480 {
+                        line-height: 19px;
+                        width: 35px;
+                    }
+                    @include w414 {
+                        width: 25px;
+                    }
+                    &.is-medium {
+                        @include w640 {
+                            height: 35px;
+                            padding: 0;
+                            font-size: 14px;
+                        }
+                        @include w414 {
+                            height: 30px;
+                            font-size: 12px;
+                        }
+                    }
+                }
+                .button {
+                    @include w640 {
+                        line-height: 19px;
+                    }
+                    @include w480 {
+                        line-height: 8px;
+                    }
+                    &.is-medium {
+                        @include w640 {
+                            height: 35px;
+                            padding: 7px 5px;
+                        }
+                        @include w480 {
+                            height: 25px;
+                        }
+                        &:first-child {
+                            @include w480 {
+                                border-right: 1px solid #c8c8c8;
+                                border-bottom: 0;
+                            }
+                        }
+                        &:last-child {
+                            @include w480 {
+                                border-left: 1px solid #c8c8c8;
+                                border-top: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.cart-item {
+    .summary-section {
+        .summary-section-content {
+            .checkout-summary {
+                .checkout-summary-label {
+                    @include w1024 {
+                        font-size: 15px;
+                    }
+                    @include w768 {
+                        font-size: 17px;
+                    }
+                    @include w640 {
+                        font-size: 15px;
+                    }
+                }
+                .checkout-summary-value {
+                    .sle-payments {
+                        @include w1024 {
+                            font-size: 18px;
+                            margin-bottom: 10px;
+                        }
+                        @include w768 {
+                            font-size: 25px;
+                        }
+                        @include w640 {
+                            font-size: 22px;
+                        }
+                        @include w414 {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.list-header-main {
+    h2 {
+        @include w414 {
+            font-size: 20px;
+        }
+    }
+    p {
+        @include w414 {
+            font-size: 15px;
+        }
+    }
+}
+
+.ant-affix {
+    .br-card {
+        @include w1024 {
+            top: 10px;
+            right: 15px;
+        }
+    }
+}
+// .ant-affix {
+//     .header {
+//         .header-left {
+//             img {
+//                 @include w568 {
+//                     width: 120px !important;
+//                 }
+//             }
+//         }
+//     }
+// }
+.header {
+    @include w919 {
+        justify-content: space-between;
+    }
+    .header-left {
+        img {
+            @include w568 {
+                width: 160px !important;
+            }
+            @include w414 {
+                width: 140px !important;
+            }
+        }
+    }
+    .header-right {
+        .bgr-login {
+            margin-right: 5px;
+            .login {
+                img {
+                    @include w414 {
+                        width: 40px !important;
+                    }
+                }
+                p {
+                    @include w414 {
+                        font-size: 11px;
+                    }
+                    @include w411 {
+                        display: none;
+                    }
+                }
+            }
+        }
+        .bgr-cart {
+            p {
+                @include w480 {
+                    display: none;
+                }
+            }
+            .cart-count {
+                @include w480 {
+                    position: absolute;
+                    top: -8px;
+                    right: -15px;
+                    width: auto;
+                    height: auto;
+                    padding: 0 5px;
+                }
+                @include w414 {
+                    font-size: 10px;
+                }
+            }
+            @include w767 {
+                margin-right: 0;
+            }
+            @include w480 {
+                border: none;
+                padding: 0;
+                margin-right: 16px;
+                position: relative;
+            }
+        }
+    }
+}
+
+.banner-page {
+    .ant-btn {
+        top: 80%;
+    }
+}
+
+.ant-modal-content {
+    .ant-modal-close {
+        @include w480 {
+            right: -5px;
+        }
+        .ant-modal-close-x {
+            @include w480 {
+                width: 35px;
+                height: 35px;
+                font-size: 15px !important;
+                line-height: 27px;
+            }
+        }
+    }
+}
+
+#donate-modal {
+    .ant-row {
+        .ant-form-item-children {
+            @include w568 {
+                display: block;
+            }
+        }
+        .ant-form-item {
+            @include w568 {
+                width: 100%;
+            }
+            input {
+                @include w568 {
+                    width: 100% !important;
+                }
+            }
+        }
+    }
+    .ant-select {
+        @include w568 {
+            margin: 0;
+        }
+    }
+}
+
+.empty-cart {
+    @include w1024 {
+        width: 93vw;
+    }
+    @include w823 {
+        width: 90vw;
+    }
+}
+
+.payment-page {
+    @include w480 {
+        padding: 10px;
+        min-height: 83.1vh;
+    }
+    .ant-steps {
+        @include w480 {
+            padding: 0 10px;
+        }
+        .ant-steps-item-icon {
+            width: 30px;
+            height: 30px;
+        }
+        .ant-steps-item-title {
+            @include w480 {
+                font-size: 13px;
+            }
+        }
+    }
+}
